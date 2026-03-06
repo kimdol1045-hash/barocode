@@ -5,6 +5,7 @@ export default defineConfig({
   brand: {
     displayName: '바로코드',
     primaryColor: '#3182F6',
+    icon: '', // TODO: 콘솔에 로고 업로드 후 이미지 URL 입력
   },
   web: {
     host: '192.168.45.61',
