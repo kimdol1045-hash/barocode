@@ -1,9 +1,0 @@
-{
-  "appName": "barocode",
-  "permissions": [
-    {
-      "name": "clipboard",
-      "access": "write"
-    }
-  ]
-}
